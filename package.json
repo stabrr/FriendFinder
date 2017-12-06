@@ -1,0 +1,24 @@
+{
+  "name": "frinedfinder",
+  "version": "1.0.0",
+  "description": "homework assignment using express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stabrr/FriendFinder.git"
+  },
+  "author": "bob stabile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stabrr/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/stabrr/FriendFinder#readme"
+}
