@@ -1,6 +1,6 @@
 var friends = [{
-        "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Bobby Brady",
+        "photo": "https://cdn.images.express.co.uk/img/dynamic/20/590x/secondary/Bobby-Brady-627969.jpg",
         "scores": [
             "5",
             "1",
@@ -15,8 +15,8 @@ var friends = [{
         ]
     },
     {
-        "name": "Jacob Deming",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        "name": "Peter Brady",
+        "photo": "http://vignette2.wikia.nocookie.net/p__/images/f/f7/Peter_Brady.jpg/revision/latest?cb=20151205042543&path-prefix=protagonist",
         "scores": [
             "4",
             "2",
@@ -31,8 +31,8 @@ var friends = [{
         ]
     },
     {
-        "name": "Jeremiah Scanlon",
-        "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        "name": "Greg Brady",
+        "photo": "http://vignette4.wikia.nocookie.net/thebradybunch/images/f/f0/OutdoorGreg.jpg/revision/latest?cb=20120302214609",
         "scores": [
             "5",
             "2",
